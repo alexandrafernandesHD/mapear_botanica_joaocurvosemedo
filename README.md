@@ -14,6 +14,7 @@
 
 **Documentos**
 * /origem.xlsx - Livro de Excel que contém as seguintes folhas:
+* Condições - Tabela com a lista de condições anotadas e o seu número de ocorrências. 
 * Origem - Tabela com os símplices por origem.
-* Pessoas - Tabela com as pessoas mencionadas no <i>Memorial</i>.
+* Pessoas - Tabela com as pessoas mencionadas e o seu número de ocorrências.
 
