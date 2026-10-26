@@ -13,5 +13,7 @@
 <p>Algumas tabelas permitem selecionar parâmetros e organizar ou filtrar os dados de acordo com diferentes critérios.</p>
 
 **Documentos**
-* /origem.xlsx - Tabela com os símplices por origem
+* /origem.xlsx - Livro de Excel que contém as seguintes folhas:
+* Origem - Tabela com os símplices por origem.
+* Pessoas - Tabela com as pessoas mencionadas no <i>Memorial</i>.
 
