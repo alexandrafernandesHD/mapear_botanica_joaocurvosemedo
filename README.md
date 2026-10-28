@@ -36,11 +36,14 @@
 
 <p><strong>Tabelas</strong></p>
 <p>Nesta pasta é possível consultar as tabelas construídas no âmbito da presente dissertação.</p>
-<p>Algumas tabelas permitem selecionar parâmetros e organizar ou filtrar os dados de acordo com diferentes critérios.</p>
+<p>As tabelas permitem selecionar parâmetros e organizar/filtrar os dados de acordo com diferentes critérios, dependendo da tabela.</p>
+<p>Para esse fim, basta clicar na seta de filtro presente no cabeçalho da tabela.</p>
 
 **Documentos**
-* /origem.xlsx - Livro de Excel que contém as seguintes folhas:
-* Condições - Tabela com a lista de condições anotadas e o seu número de ocorrências. 
+- /botanica_joaocurvosemedo.xlsx - Livro de Excel que contém as seguintes folhas:
+* Bibliografia - Tabela com a bibliografia extraída no Memorial, seus autores e número de ocorrências.
+* Condições - Tabela com a lista de condições anotadas e o seu número de ocorrências.
+* Tipo-Condições - Tabela com a lista de condições, seus tipos e número de ocorrências. 
 * Origem - Tabela com os símplices por origem.
 * Pessoas - Tabela com as pessoas mencionadas e o seu número de ocorrências.
 
