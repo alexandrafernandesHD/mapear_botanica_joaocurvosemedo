@@ -1,0 +1,368 @@
+<simple xml:id="arroz">arroz</simple>
+<simple xml:id="limao">limaõ gallego</simple>
+<simple xml:id="escorcioneira" prepareWith="pedra_bazar_simples">eſcorcioneira</simple>
+<simple xml:id="papoula" prepareWith="pedra_bazar_simples">papoulas</simple>
+<simple xml:id="cardo_santo" prepareWith="pedra_bazar_simples">cardo ſanto</simple>
+<simple xml:id="faveira_seca" prepareWith="pedra_bazar_simples">pào
+<lb n="48"/>de faveira ſeca</simple>
+<simple xml:id="eroca_marinha" prepareWith="pedra_bazar_simples">eroca marinha</simple>
+<simple xml:id="erva_sapinha" prepareWith="pedra_bazar_simples">erva ſapinha</simple>
+<simple xml:id="virga_aurea" prepareWith="pedra_bazar_simples">virga aurea</simple>
+<simple xml:id="borragem" prepareWith="pedra_bazar_simples">borragens</simple>
+<simple xml:id="ameixa" prepareWith="pedra_bazar_simples">ameyxas</simple>
+<simple xml:id="vinho" prepareWith="pedra_bazar_simples">ſarro de 
+<lb n="7"/>vinho branco feyto em pò ſubtiliſſimo</simple>
+<simple xml:id="escorcioneira" prepareWith="pedra_cordeal_composta">eſcorcioneyra</simple>
+<simple xml:id="papoula" prepareWith="pedra_cordeal_composta">papoulas</simple>
+<simple xml:id="cereja" prepareWith="pedra_cordeal_composta">cereijas negras</simple>
+<simple xml:id="vinho">vinho</simple>
+<simple xml:id="vinho" prepareWith="pedra_cordeal_composta">vinho generoſo</simple>
+<simple xml:id="vinho" prepareWith="pedra_cordeal_composta">vinho</simple>
+<simple xml:id="vinho" prepareWith="pedra_cordeal_composta">vinho generoſo</simple>
+<simple xml:id="vinho" prepareWith="pedra_cordeal_composta">vinho excellente</simple>
+<simple xml:id="escorcioneira" prepareWith="pedra_cordeal_composta">eſcorcioneyra</simple>
+<simple xml:id="borragem" prepareWith="pedra_cordeal_composta">borragẽs</simple>
+<simple xml:id="contraerva" prepareWith="pedra_cordeal_composta">raiz de contrayerva</simple>
+<simple xml:id="serpentaria_virginiana" prepareWith="pedra_cordeal_composta">ſerpentaria virginiana</simple>
+<simple xml:id="cardo_santo" prepareWith="pedra_cordeal_composta">cardo ſanto</simple>
+<simple xml:id="vinho" prepareWith="pedra_cordeal_composta">vinho</simple>
+<simple xml:id="buxo" prepareWith="pedra_cordeal_composta">flor da
+<lb n="37"/>arvore buxo</simple>
+<simple xml:id="brassica_marina" prepareWith="perdacordealcomposta">raiz da braſſica ma<pc force="inter">-
+</pc><lb n="41"/>rina</simple>
+<simple xml:id="vimal" prepareWith="pedra_cordeal_composta">vimal</simple>
+<simple xml:id="espinheiro_alvar" prepareWith="pedra_cordeal_composta">folhas de eſpinheyro alvar</simple>
+<simple xml:id="ramno" alsoKnownAs="espinheiro_alvar" prepareWith="pedra_cordeal_composta">Rhamno</simple>
+<simple xml:id="vinho" prepareWith="pedra_cordeal_composta">vinho do Rhim</simple>
+<simple xml:id="vinho">branco</simple>
+<simple xml:id="butua" prepareWith="pedra_cordeal_composta">raiz
+<lb n="49"/>da butua</simple>
+<simple xml:id="faveira_seca" prepareWith="pedra_cordeal_composta">pào da faveyra ſeca</simple>
+<simple xml:id="erva_sapinha" prepareWith="pedra_cordeal_composta">erva chamada ſapinho</simple>
+<simple xml:id="escorcioneira" prepareWith="bezoartico_curviano">eſcorcioneyra</simple>
+<simple xml:id="cidra" prepareWith="bezoartico_curviano">pevides de cidra</simple>
+<simple xml:id="quinaquina">quinaquina</simple>
+<simple xml:id="quinaquina">quinaquina</simple>
+<simple xml:id="agua_inglaterra">agua de Inglaterra</simple>
+<simple xml:id="quinaquina">quinaquina</simple>
+<simple xml:id="quinaquina">quinaquina</simple>
+<simple xml:id="macela" prepareWith="pedra_porco_espim_natural">macella</simple>
+<simple xml:id="amendoa" prepareWith="pedra_cananor">amendoadas</simple>
+<simple xml:id="ononis" alsoKnownAs="rilhaboi" prepareWith="ouvido_peixe_boi">raiz de Ononis</simple>
+<simple xml:id="rilhaboi" prepareWith="ouvido_peixe_boi">Rilha Boy</simple>
+<simple xml:id="remora_aratri" alsoKnownAs="rilhaboi" prepareWith="ouvido_peixe_boi">Remora Aratri</simple>
+<simple xml:id="virga_aurea" prepareWith="ouvido_peixe_boi">virga aurea</simple>
+<simple xml:id="fava" prepareWith="ouvido_peixe_boi">flor de favas</simple>
+<simple xml:id="salsa" prepareWith="ouvido_peixe_boi">ſalſa das hortas</simple>
+<simple xml:id="gergelim" prepareWith="pedra_candar">oleo de gergelim quente</simple>
+<simple xml:id="gergelim" prepareWith="pedra_candar">oleo de gergelim</simple>
+<simple xml:id="vinho">vinho</simple>
+<simple xml:id="erva_poligano" prepareWith="pedra_candar">erva po<pc force="inter">-
+</pc><lb n="21"/>ligano</simple>
+<simple xml:id="erva_andorinha" alsoKnownAs="erva_poligano" prepareWith="pedra_candar">erva andorinha.</simple>
+<simple xml:id="cereja" prepareWith="pedra_candar">cerejas negras</simple>
+<simple xml:id="manjerona" prepareWith="pedra_candar">mangerona</simple>
+<simple xml:id="borragem" prepareWith="pedra_candar">borragens</simple>
+<simple xml:id="cidreira" prepareWith="pedra_candar">erva cidreira</simple>
+<simple xml:id="cardo_santo" prepareWith="pedra_candar">cardo
+<lb n="29"/>ſanto</simple>
+<simple xml:id="macela" prepareWith="pedra_candar">cabeças de macella</simple>
+<simple xml:id="macela" prepareWith="pedra_candar">macella</simple>
+<simple xml:id="vinho" prepareWith="pedra_candar">vinho do Rhim</simple>
+<simple xml:id="vinho">vinho branco</simple>
+<simple xml:id="vinho">vinho</simple>
+<simple xml:id="limao" prepareWith="pedra_candar">limaõ azedo</simple>
+<simple xml:id="vinho">vinho</simple>
+<simple xml:id="butua" prepareWith="pedra_candar">raiz da butua</simple>
+<simple xml:id="bardana" prepareWith="pedra_candar">ſemente da bardana</simple>
+<simple xml:id="esteva" prepareWith="pedra_candar">eſteva</simple>
+<simple xml:id="vincetoxico" prepareWith="pedra_candar">raizes de vince<pc force="inter">-
+</pc><lb n="53"/>toxico</simple>
+<simple xml:id="cerefolio" prepareWith="pedra_candar">folhas de cerfolio</simple>
+<simple xml:id="verbasco" prepareWith="pedra_candar">flor de ver<pc force="inter">-
+</pc><lb n="55"/>baſco</simple>
+<simple xml:id="borragem" prepareWith="pedra_candar">borragẽs</simple>
+<simple xml:id="tanchagem" prepareWith="pedra_candar">tanchagem</simple>
+<simple xml:id="vinho" prepareWith="pedra_cabeca_cobra_pate">vinho branco</simple>
+<simple xml:id="alfavaca_cobra" prepareWith="pedra_cabeca_cobra_pate">alfavaca de cobra</simple>
+<simple xml:id="esteva" prepareWith="pedra_cabeca_cobra_pate">ſemente das carapetas da eſteva</simple>
+<simple xml:id="vinho" prepareWith="pedra_cabeca_cobra_pate">vinho</simple>
+<simple xml:id="bisnaga" prepareWith="pedra_cabeca_cobra_pate">ſemente de biſnaga</simple>
+<simple xml:id="rosa" prepareWith="pedra_cobra_dio">agua roſada</simple>
+<simple xml:id="erva_paraguai">Erva do Paraguay</simple>
+<simple xml:id="vinagre" prepareWith="caranguejo_ainao">vinagre</simple>
+<simple xml:id="rosa" prepareWith="caranguejo_ainao">agua roſada</simple>
+<simple xml:id="limao" prepareWith="caranguejo_ainao">limaõ gallego</simple>
+<simple xml:id="vinho" prepareWith="caranguejo_ainao">bom vinho</simple>
+<simple xml:id="cereja" prepareWith="caranguejo_ainao">cerejas negras</simple>
+<simple xml:id="valeriana" prepareWith="caranguejo_ainao">raizes de valeriana agreſte</simple>
+<simple xml:id="vinagre" prepareWith="caranguejo_ainao">vinagre</simple>
+<simple xml:id="vinho" prepareWith="caranguejo_ainao">bom vinho</simple>
+<simple xml:id="rosa" prepareWith="caranguejo_ainao">agua roſada</simple>
+<simple xml:id="faveira_seca" prepareWith="priapo_cavalo_marinho">pao de faveira ſeca</simple>
+<simple xml:id="eroca_marinha" prepareWith="priapo_cavalo_marinho">raiz de Eroca Marinha</simple>
+<simple xml:id="rabao" prepareWith="priapo_cavalo_marinho">caſcas de rabãos</simple>
+<simple xml:id="papoula" prepareWith="priapo_cavalo_marinho">flores de papoulas</simple>
+<simple xml:id="bardana" prepareWith="priapo_cavalo_marinho">caſ<pc force="inter">-
+</pc><lb n="30"/>ca da raiz de bardana</simple>
+<simple xml:id="alquitira" prepareWith="priapo_cavalo_marinho">alquitira</simple>
+<simple xml:id="papoula" prepareWith="priapo_veado">papoulas</simple>
+<simple xml:id="espargo" prepareWith="dente_cavalo_marinho">raiz de eſpargo</simple>
+<simple xml:id="rilhaboi" prepareWith="dente_cavalo_marinho">raiz de rilha boy</simple>
+<simple xml:id="ononis" alsoKnownAs="rilhaboi" prepareWith="dente_cavalo_marinho">Ononis</simple>
+<simple xml:id="remora_aratri" alsoKnownAs="rilhaboi" prepareWith="dente_cavalo_marinho">Remora aratri</simple>
+<simple xml:id="virga_aurea" prepareWith="dente_cavalo_marinho">pao de virga aurea</simple>
+<simple xml:id="tisana" prepareWith="dente_cavalo_marinho">tiſanas</simple>
+<simple xml:id="rosa" prepareWith="dente_boca_elefante">roſada</simple>
+<simple xml:id="cereja" prepareWith="unha_grao_besta">cereijas negras</simple>
+<simple xml:id="papoula" prepareWith="dente_engala">lambedor de papoulas</simple>
+<simple xml:id="papoula" prepareWith="bardana">flores de papoulas</simple>
+<simple xml:id="bardana" prepareWith="papoula">caſcas de raiz de Bardana</simple>
+<simple xml:id="manica">Raiz da Manica</simple>
+<simple xml:id="tisana" prepareWith="manica">tiſana</simple>
+<simple xml:id="agua_inglaterra">agua de Inglaterra</simple>
+<simple xml:id="manica">Manica</simple>
+<simple xml:id="limao" prepareWith="manica">limaõ</simple>
+<simple xml:id="limao" prepareWith="manica">limaõ gallego</simple>
+<simple xml:id="rosa" prepareWith="manica">agua roſada</simple>
+<simple xml:id="tanchagem" prepareWith="manica">tanchagem</simple>
+<simple xml:id="hera" prepareWith="manica">xarope de hera terreſtre</simple>
+<simple xml:id="ungula_cabalina" prepareWith="manica">ungula cabalina</simple>
+<simple xml:id="r_manica">raiz da <choice><sic>Maniaca</sic><corr>Manica</corr></choice></simple>
+<simple xml:id="raiz_madre_de_deus">Raiz da Madre de Deos</simple>
+<simple xml:id="faveira_seca" prepareWith="raiz_madre_de_deus">páo
+<lb n="2"/>da faveira ſeca</simple>
+<simple xml:id="cerefolio" prepareWith="raiz_madre_de_deus">folhas de cerfelio</simple>
+<simple xml:id="limao" prepareWith="raiz_madre_de_deus">limaõ gallego</simple>
+<simple xml:id="cipo">Raiz do Cypò</simple>
+<simple xml:id="cipo">Cypò</simple>
+<simple xml:id="picaquanha" alsoKnownAs="cipo">Pica<pc force="inter">-
+</pc><lb n="10"/>quanha</simple>
+<simple xml:id="cipo">Cypò</simple>
+<simple xml:id="vinagre" prepareWith="cipo">vinagre forte</simple>
+<simple xml:id="solor">Raiz de <origin simple="solor">Solor</origin></simple>
+<simple xml:id="calumba">Raiz de <origin simple="calumba">Calumba</origin></simple>
+<simple xml:id="limao" prepareWith="calumba">limaõ gallego</simple>
+<simple xml:id="vinho" prepareWith="calumba">vinho</simple>
+<simple xml:id="faveira_seca" prepareWith="calumba">pàos da faveira ſeca</simple>
+<simple xml:id="espargo" prepareWith="calumba">raizes de eſpargo</simple>
+<simple xml:id="limao" prepareWith="calumba">limaõ gallego</simple>
+<simple xml:id="vinho" prepareWith="calumba">vinho</simple>
+<simple xml:id="anfiao" alsoKnownAs="opio">Anfiaõ</simple>
+<simple xml:id="anfiao" alsoKnownAs="opio">Anfiaõ</simple>
+<simple xml:id="anfiao" alsoKnownAs="opio">Anfiaõ</simple>
+<simple xml:id="opio">Opio</simple>
+<simple xml:id="limao" prepareWith="calumba">limaõ gallego</simple>
+<simple xml:id="limao" prepareWith="calumba">limaõ gallego</simple>
+<simple xml:id="vinho" prepareWith="calumba">vinho</simple>
+<simple xml:id="quinaquina">quinaquina</simple>
+<simple xml:id="serpentaria_virginiana">Serpentaria virginiana</simple>
+<simple xml:id="sapuche">Raiz de Sapuche</simple>
+<simple xml:id="raiz_joao_lopes_pinheiro">Raiz de Joaõ Lopes Pinheiro</simple>
+<simple xml:id="vinho" prepareWith="raiz_joao_lopes_pinheiro">vinho</simple>
+<simple xml:id="butua">Raiz da Butua</simple>
+<simple xml:id="parreira_brava" alsoKnownAs="butua">parreira brava</simple>
+<simple xml:id="parreira_brava" alsoKnownAs="butua">Parreira brava</simple>
+<simple xml:id="butua">Raiz
+<lb n="3"/>da Butua</simple>
+<simple xml:id="vinagre" prepareWith="butua">vinagre deſtẽperado</simple>
+<simple xml:id="papoula" prepareWith="butua">papoulas</simple>
+<simple xml:id="cevada" prepareWith="butua">cevada</simple>
+<simple xml:id="tormentilha" prepareWith="butua">raiz de tormentilla</simple>
+<simple xml:id="solda" alsoKnownAs="tormentilha" prepareWith="butua">ſolda</simple>
+<simple xml:id="pentafilao" alsoKnownAs="tormentilha" prepareWith="butua">pentafilaõ</simple>
+<simple xml:id="oleo_verdadeiro_canela">oleo verdadeiro de canela</simple>
+<simple xml:id="agua_rainha_hungria" prepareWith="butua">agua da Rainha de Hungria</simple>
+<simple xml:id="rosa" prepareWith="butua">agua
+<lb n="47"/>roſada</simple>
+<simple xml:id="murta" prepareWith="butua">murta</simple>
+<simple xml:id="vinho" prepareWith="butua">vinho branco
+<lb n="52"/>aguado</simple>
+<simple xml:id="tanchagem" prepareWith="butua">tanchagem</simple>
+<simple xml:id="alquitira" prepareWith="butua">alquitira</simple>
+<simple xml:id="grao_pardo" prepareWith="butua">caldo de grãos pardos</simple>
+<simple xml:id="butua">raiz da Butua</simple>
+<simple xml:id="vinagre" prepareWith="butua">vinagre</simple>
+<simple xml:id="butua">raiz da Butua</simple>
+<simple xml:id="terebentina" prepareWith="butua">Terebentina</simple>
+<simple xml:id="butua">raiz da Butua</simple>
+<simple xml:id="centaurea_menor" prepareWith="butua">centaurea menor</simple>
+<simple xml:id="divina">Raiz Divina</simple>
+<simple xml:id="divina">raiz Divina</simple>
+<simple xml:id="unguento_bicuiva">Unguento de Bicuiva</simple>
+<simple xml:id="vinho" prepareWith="maca_leao">vinho</simple>
+<simple xml:id="cardo_santo" prepareWith="maca_elefante">cardo ſanto</simple>
+<simple xml:id="papoula" prepareWith="maca_elefante">papoulas</simple>
+<simple xml:id="triaga_brasilica">Triaga Braſilica</simple>
+<simple xml:id="triaga magna">Triaga magna</simple>
+<simple xml:id="triaga_magna">Triaga magna</simple>
+<simple xml:id="amendoa" prepareWith="marmelo">amendoadas</simple>
+<simple xml:id="marmelo" prepareWith="amendoa">mucilagens de marmelo</simple>
+<simple xml:id="vinho" prepareWith="triaga_brasilica">vinho</simple>
+<simple xml:id="vinho" prepareWith="triafa_brasilica">vinho</simple>
+<simple xml:id="cerefolio" prepareWith="triaga_brasilica">cerfolio</simple>
+<simple xml:id="espargo" prepareWith="triaga_brasilica">raiz de eſpargo</simple>
+<simple xml:id="rilhaboi" prepareWith="triaga_brasilica">rilhaboy</simple>
+<simple xml:id="cardo_santo" prepareWith="triaga_brasilica">cardo ſanto</simple>
+<simple xml:id="escorcioneira" prepareWith="triaga_brasilica">eſcorcioneira</simple>
+<simple xml:id="serpentaria_virginiana">raiz de ſerpentaria virginiana</simple>
+<simple xml:id="raiz_joao_pires">Raiz de Joaõ Pires</simple>
+<simple xml:id="esula" alsoKnownAs="raiz_joao_pires">Eſula</simple>
+<simple xml:id="vinagre" prepareWith="raiz_joao_pires">vinagre branco</simple>
+<simple xml:id="esula" alsoKnownAs="raiz_joao_pires">Eſula</simple>
+<simple xml:id="morango" prepareWith="pedra_fel_vaca">folhas
+<lb n="11"/>de morangos</simple>
+<simple xml:id="grama" prepareWith="pedra_fel_vaca">raizes de grama</simple>
+<simple xml:id="largis">Pao de Largis</simple>
+<simple xml:id="largis">A Arvore chamada Largis</simple>
+<simple xml:id="largis">caſca deſta arvore chamada Largis</simple>
+<simple xml:id="losna" prepareWith="largis">raiz de loſna</simple>
+<simple xml:id="uva" prepareWith="largis">uvas paſſadas</simple>
+<simple xml:id="largis">Largis</simple>
+<simple xml:id="quinaquina">quinaquina</simple>
+<simple xml:id="salsa_parrilha">ſalſa parrilha</simple>
+<simple xml:id="largis">caſca de pào chamado Largis</simple>
+<simple xml:id="rosa" prepareWith="largis">agua roſada</simple>
+<simple xml:id="pau_cobra">Pào Cobra</simple>
+<simple xml:id="dangya_catenga" alsoKnownAs="pau_cobra">Dangya Catenga</simple>
+<simple xml:id="catubia" alsoKnownAs="pau_cobra">Catu<pc force="inter">-
+</pc><lb n="35"/>bia</simple>
+<simple xml:id="pau_cobra">pào Cobra</simple>
+<simple xml:id="anagalia" prepareWith="pau_cobra">erva Anagalia</simple>
+<simple xml:id="marugem" alsoKnownAs="anagalia" prepareWith="pau_cobra">Marugem</simple>
+<simple xml:id="vinho" prepareWith="pau_cobra">eſpirito de vinho alcanforado</simple>
+<simple xml:id="contraerva">Contrayerva</simple>
+<simple xml:id="contraerva">Contrayerva</simple>
+<simple xml:id="contraerva">Contrayerva</simple>
+<simple xml:id="grao_pardo" prepareWith="contraerva">caldo
+<lb n="29"/>de grãos pardos.</simple>
+<simple xml:id="alfavaca_cobra" prepareWith="contraerva">alfavaca de cobra</simple>
+<simple xml:id="ononis" alsoKnownAs="rilhaboi" prepareWith="contraerva">raiz da erva chamada Ono<pc force="inter">-
+</pc><lb n="33"/>nis</simple>
+<simple xml:id="remora_aratri" alsoKnownAs="rilhaboi" prepareWith="contraerva">remora aratri</simple>
+<simple xml:id="rilhaboi" prepareWith="contraerva">rilha boy</simple>
+<simple xml:id="arvore_angelica">Arvore Angelica</simple>
+<simple xml:id="marmelo" prepareWith="meriganga">marmelada</simple>
+<simple xml:id="artequim">Artequim</simple>
+<simple xml:id="artequim">Artequim</simple>
+<simple xml:id="artequim">Artequins</simple>
+<simple xml:id="pau_quiriato">Pào Quiriato</simple>
+<simple xml:id="monguz">Raiz de Monguz</simple>
+<simple xml:id="coco_maldiva">Coco de <origin simple="coco_maldiva">Maldiva</origin></simple>
+<simple xml:id="coquinho_melinde">Coquinho de <origin simple="coquinho_melinde">Melinde</origin></simple>
+<simple xml:id="macoma" alsoKnownAs="coquinho_melinde">Macoma</simple>
+<simple xml:id="coquinho_melinde">coquinho</simple>
+<simple xml:id="milhomens">Raiz de Milhomens</simple>
+<simple xml:id="milhomens">Mil-homens</simple>
+<simple xml:id="tambuape">Raiz de Tambuape</simple>
+<simple xml:id="batata_campo">Batatas do Campo</simple>
+<simple xml:id="tambuape">Tambuape</simple>
+<simple xml:id="milhomens">Mil-homens</simple>
+<simple xml:id="batata_campo">batata</simple>
+<simple xml:id="fava_melinde">Fava de <origin simple="fava_melinde">Melinde</origin></simple>
+<simple xml:id="vinho" prepareWith="fava_melinde">vinho</simple>
+<simple xml:id="raiz_queijo">Raiz do Queijo</simple>
+<simple xml:id="limao" prepareWith="raiz_queijo">limaõ gallego</simple>
+<simple xml:id="limao" prepareWith="raiz_queijo">limaõ azedo</simple>
+<simple xml:id="rosa" prepareWith="raiz_queijo">agua roſada</simple>
+<simple xml:id="escorcioneira" prepareWith="raiz_queijo">eſcorcioneira</simple>
+<simple xml:id="limao" prepareWith="raiz_queijo">limaõ azedo</simple>
+<simple xml:id="gengibre" prepareWith="raiz_queijo">pó de gengibre</simple>
+<simple xml:id="limao" prepareWith="raiz_queijo">limaõ</simple>
+<simple xml:id="raiz_queijo">raiz do Queijo</simple>
+<simple xml:id="raiz_queijo">raiz do Queijo</simple>
+<simple xml:id="limao" prepareWith="raiz_queijo">limaõ aze<pc force="inter">-
+</pc><lb n="13"/>do</simple>
+<simple xml:id="raiz_queijo">raiz do Queijo</simple>
+<simple xml:id="amendoa" prepareWith="raiz_queijo">amendoadas</simple>
+<simple xml:id="trociscos_alandal">trociſcos de Alandal</simple>
+<simple xml:id="ginsao">Raiz de Ginſaõ</simple>
+<simple xml:id="mocuaquim">Raiz de Moçuaquim</simple>
+<simple xml:id="figueira_peru">leite que deitar de ſi huma folha de
+<lb n="42"/>figueira daquellas terras</simple>
+<simple xml:id="figueira_peru">figueira daquellas terras</simple>
+<simple xml:id="figueira_peru">leite das ſuas folhas</simple>
+<simple xml:id="angariari">Pào de Angariari</simple>
+<simple xml:id="angariari">ſemente</simple>
+<simple xml:id="cardo_santo" prepareWith="unicorne_ave_inhuma">cardo ſanto</simple>
+<simple xml:id="escorcioneira" prepareWith="unicorne_ave_inhuma">eſcorcioneira.</simple>
+<simple xml:id="serpentaria_virginiana">raiz da ſerpentaria virginiana</simple>
+<simple xml:id="jamvarandim">Jamvarandim</simple>
+<simple xml:id="jamvarandim">Jamvarandim</simple>
+<simple xml:id="tanchagem" prepareWith="tinta_negra_china">tanchagem</simple>
+<simple xml:id="maranga">Raiz da Maranga</simple>
+<simple xml:id="maranga">pao da meſma arvore</simple>
+<simple xml:id="raiz_febres">Raiz das febres</simple>
+<simple xml:id="raiz_presta" alsoKnownAs="raiz_febres">Raiz Preſta</simple>
+<simple xml:id="raiz_nossa_senhora_febres" alsoKnownAs="raiz_febres">Raiz
+<lb n="16"/>de Noſſa Senhora das Febres</simple>
+<simple xml:id="raiz_apostemas">Raiz dos Apoſtemas</simple>
+<simple xml:id="arroz" prepareWith="raiz_apostemas">farinha de arroz</simple>
+<simple xml:id="raiz_ar">Raiz do Ar</simple>
+<simple xml:id="arvore_quiriato">Arvore Quiriato</simple>
+<simple xml:id="arvore_quiriato">Quiriato</simple>
+<simple xml:id="fucamena" alsoKnownAs="arvore_quiriato">Fucamena</simple>
+<simple xml:id="oleo_alambre">Oleo de Alambre</simple>
+<simple xml:id="oleo_santo" alsoKnownAs="oleo_alambre">Oleo Santo.</simple>
+<simple xml:id="cardo_santo" prepareWith="oleo_alambre">cardo ſanto</simple>
+<simple xml:id="betonica" prepareWith="oleo_alambre">betonica</simple>
+<simple xml:id="alfazema" prepareWith="oleo_alambre">alfazema</simple>
+<simple xml:id="manjerona" prepareWith="oleo_alambre">mangerona.</simple>
+<simple xml:id="salsa" prepareWith="oleo_alambre">ſalſa</simple>
+<simple xml:id="artemisia" prepareWith="oleo_alambre">artemiſia</simple>
+<simple xml:id="cardo_santo" prepareWith="oleo_alambre">cardo ſanto</simple>
+<simple xml:id="tanchagem" prepareWith="oleo_alambre">tancha<pc force="inter">-
+</pc><lb n="31"/>gem</simple>
+<simple xml:id="morango" prepareWith="oleo_alambre">folhas de morangos</simple>
+<simple xml:id="grama" prepareWith="oleo_alambre">raiz
+<lb n="33"/>de grama</simple>
+<simple xml:id="cidreira" prepareWith="oleo_alambre">herva cidreira</simple>
+<simple xml:id="laranja" prepareWith="oleo_alambre">flor de laranja.</simple>
+<simple xml:id="artemisia" prepareWith="oleo_alambre">artemiſia</simple>
+<simple xml:id="sabina" prepareWith="oleo_alambre">ſabina</simple>
+<simple xml:id="cidreira" prepareWith="oleo_alambre">herva ci<pc force="inter">-
+</pc><lb n="40"/>dreira</simple>
+<simple xml:id="artemisia" prepareWith="oleo_alambre">artemiſia</simple>
+<simple xml:id="erva_monta" prepareWith="oleo_alambre">herva montãa</simple>
+<simple xml:id="salsa" prepareWith="oleo_alambre">folhas de ſalſa</simple>
+<simple xml:id="valeriana">raizes de valeriana</simple>
+<simple xml:id="oleo_tranquilo" cert="unknown">Oleo Tranquillo</simple>
+<simple xml:id="grama" prepareWith="ponta_abada">grama</simple>
+<simple xml:id="codeco" prepareWith="ponta_abada">codeço</simple>
+<simple xml:id="minhaminha">Raiz da Minhaminha</simple>
+<simple xml:id="quiminha" alsoKnownAs="minhaminha">Quiminha</simple>
+<simple xml:id="pau_cobra">pao
+<lb n="26"/>Cobra</simple>
+<simple xml:id="minhaminha">Minhaminha</simple>
+<simple xml:id="pau_cobra">pao Cobra</simple>
+<simple xml:id="minhaminha">Minha<pc force="inter">-
+</pc><lb n="32"/>minha</simple>
+<simple xml:id="minhaminha">Minhaminha</simple>
+<simple xml:id="minhaminha">Minhaminha</simple>
+<simple xml:id="minhaminha">Minhaminha</simple>
+<simple xml:id="mutututu">Raiz de Mutututu</simple>
+<simple xml:id="mutututu">Mutututu</simple>
+<simple xml:id="vinho" prepareWith="bucho_ema">vinho do Rhim</simple>
+<simple xml:id="virga_aurea" prepareWith="bucho_ema">Virga aurea</simple>
+<simple xml:id="eroca_marinha" prepareWith="bucho_ema"><choice><sic>Froca</sic><corr>Eroca</corr></choice> marinha</simple>
+<simple xml:id="cerefolio" prepareWith="bucho_ema">cerfolio</simple>
+<simple xml:id="muhamgo">Pao do Muhamgo</simple>
+<simple xml:id="mubamgo" alsoKnownAs="muhamgo">Mubamgo</simple>
+<simple xml:id="quiseco">Pao Quiſeco</simple>
+<simple xml:id="quiseco">Quiſeco</simple>
+<simple xml:id="quicongo">pao chamado Quicongo</simple>
+<simple xml:id="quitumbata">Herva Quitumbata</simple>
+<simple xml:id="orelha_onca">Orelha de Onça</simple>
+<simple xml:id="orelha_onca">Orelha de Onça</simple>
+<simple xml:id="cipo">raiz do Cy<pc force="inter">-
+</pc><lb n="14"/>pò</simple>
+<simple xml:id="cipo">Cypò</simple>
+<simple xml:id="orelha_onca">Orelha de Onça</simple>
+<simple xml:id="acucar_rosado" prepareWith="orelha_onca">aſſucar roſado</simple>
+<simple xml:id="cevada" prepareWith="orelha_onca">cremor de cevada</simple>
+<simple xml:id="acafrao" prepareWith="massa_curviana">açafraõ</simple>
+<simple xml:id="salsa" prepareWith="massa_curviana">ſemente de ſalſa</simple>
+<simple xml:id="erva_monta" prepareWith="massa_curviana">herva montãa</simple>
+<simple xml:id="hissopo" prepareWith="massa_curviana">cabeças de erva hyſſopo</simple>
+<simple xml:id="cardo_santo" prepareWith="massa_curviana">folhas
+<lb n="26"/>de cardo ſanto.</simple>

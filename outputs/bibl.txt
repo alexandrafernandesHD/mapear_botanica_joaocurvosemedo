@@ -1,0 +1,37 @@
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da terceira impreſſaõ <emph rend="italic">trat. 2. cap. <choice><orig>I30</orig><reg>130</reg></choice>. fol. 675. n. <choice><orig>I</orig><reg>1</reg></choice>.</emph></bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da terceira impreſſaõ <emph rend="italic">trat. 2. cap.83 fol.
+<lb n="40"/>448. n.37. uſq. ad 49.</emph></bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da
+<lb n="27"/>terceyra impreſſaõ ſobre eſte ponto <emph rend="italic">tract. 2. cap. <choice><orig>I03</orig><reg>103</reg></choice>. fol. 550. num 22.</emph></bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da terceyra impreſſaõ
+<lb n="6"/>de <emph rend="italic">fol. 654. atè 662.</emph></bibl>
+<bibl>Galeno <emph rend="italic">lib. 3. <title alsoKnownAs="De simplicium medicamentorum temperamentis ac facultatibus">ſimplic. medicam.</title> 30.</emph></bibl>
+<bibl>Eſtachio <emph rend="italic">lib. <choice><orig>I</orig><reg>1</reg></choice>. cap. 45. de
+<lb n="38"/>Pleuritide, mihi fol. <choice><orig>I73</orig><reg>173</reg></choice>.</emph></bibl>
+<bibl><title>Obſervaçoens Latinas, e Portuguezas</title>, na <emph rend="italic">Obſ. <choice><orig>4I</orig><reg>41</reg></choice>. pag. 252
+<lb n="49"/>&amp; 253.</emph></bibl>
+<bibl><title alsoKnownAs="Atalaya da vida, contra as hostilidades da morte">Peculio</title></bibl>
+<bibl>primeiro tomo do
+<lb n="4"/>ſeu <title>Vocabulario Portuguez, e Latino</title> <emph rend="italic">fol. 373. col. <choice><orig>I</orig><reg>1</reg></choice>.</emph></bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da terceira
+<lb n="28"/>impreſſaõ <emph rend="italic">trat. 2. cap. 65. fol. 360. n. <choice><orig>I3</orig><reg>13</reg></choice>.</emph></bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title></bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da terceira impreſſaõ no <emph rend="italic">trat.
+<lb n="26"/>2. cap. <choice><orig>I06</orig><reg>106</reg></choice>.</emph> deſde a folha <choice><orig>57I</orig><reg>571</reg></choice>. atè 579.</bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da
+<lb n="21"/>terceira impreſſaõ <emph rend="italic">trat. 2. cap. <choice><orig>I5</orig><reg>15</reg></choice>. pag. <choice><orig>I05</orig><reg>105</reg></choice>. num. <choice><orig>I4</orig><reg>14</reg></choice>.</emph></bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da
+<lb n="24"/>terceira impreſſaõ <emph rend="italic">trat. 2. cap. 83. fol. 488. de num. 37 atè 49.</emph></bibl>
+<bibl><emph rend="italic">lib. 2. <title alsoKnownAs="Historia Naturalis Brasiliae">hiſtor. natur.</title> ſect. 2. de Avibus fol. <choice><orig>9I</orig><reg>91</reg></choice>.</emph></bibl>
+<bibl><emph rend="italic"><title>Polyanthea</title> trat. 3. cap. 4. pag. 752. num. 84.</emph></bibl>
+<bibl><title>Obſervaçoens Portuguezas</title> na <emph rend="italic">Obſerv. 7. pag. 53.</emph></bibl>
+<bibl><emph rend="italic">Obſerv. 82. pag. 480.</emph></bibl>
+<bibl><emph rend="italic">Obſerv;
+<lb n="33"/>83. pag. 485.</emph></bibl>
+<bibl><title alsoKnownAs="Atalaya da vida, contra as hostilidades da morte">Peculio</title></bibl>
+<bibl><title><emph rend="italic">Polyanthea</emph></title> da terceira impreſ<pc force="inter">-
+</pc><lb n="39"/>ſaõ no <emph rend="italic">trat. 2. cap. <choice><orig>I06</orig><reg>106</reg></choice>. pag. <choice><orig>57I</orig><reg>571</reg></choice>.</emph> do <emph rend="italic">num. 7.</emph> atè o <emph rend="italic">num. 44.</emph></bibl>
+<bibl><emph rend="italic"><title>Polyanthea</title> trat. 2. cap. 9. pag. 68. até 70.</emph></bibl>
+<bibl><emph rend="italic">trat. 3. cap. 4. p. 748. até <choice><orig>75I</orig><reg>751</reg></choice>.</emph></bibl>
+<bibl><emph rend="italic">cap. 83. pag.
+<lb n="44"/>448. do num. 37. até 49.</emph></bibl>

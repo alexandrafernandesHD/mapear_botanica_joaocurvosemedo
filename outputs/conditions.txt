@@ -1,0 +1,438 @@
+<condition xml:id="fraqueza">fraqueza do <locus>eſtomago</locus></condition>
+<condition xml:id="gases">ventoſidades</condition>
+<condition xml:id="fastio">faſtio</condition>
+<condition xml:id="vomito">vomitos</condition>
+<condition xml:id="ferida">feridas freſcas</condition>
+<condition xml:id="ferida">ferida</condition>
+<condition xml:id="chaga">chagas podres</condition>
+<condition xml:id="chaga"><locus>chaga</locus></condition>
+<condition xml:id="herpes">herpes</condition>
+<condition xml:id="ferida"><locus>ferida</locus></condition>
+<condition xml:id="herpes">herpes</condition>
+<condition xml:id="dor">dor de colica</condition>
+<condition xml:id="dor" locus="abdómen">xeringoſa</condition>
+<condition xml:id="escorbuto">mal de Loanda</condition>
+<condition xml:id="dor">dente,
+<lb n="34"/>que doer</condition>
+<condition xml:id="dor">dor de <locus>ouvidos</locus></condition>
+<condition xml:id="chaga">chagas do <locus alsoKnownAs="pulmão">bofe</locus></condition>
+<condition xml:id="chaga">chaga do <locus alsoKnownAs="pulmão">bofe</locus></condition>
+<condition xml:id="ferida">feridas freſcas com ſangue</condition>
+<condition xml:id="ferida">ferida</condition>
+<condition xml:id="supressao">ourina ſuppri<pc force="inter">-
+</pc><lb n="3"/>mida</condition>
+<condition xml:id="febre">febre, principalmente para as que en<pc force="inter">-
+</pc><lb n="4"/>trarem com frio</condition>
+<condition xml:id="dor">grandes dores de <locus>cabeça</locus></condition>
+<condition xml:id="inflamacao">inflammaçoens do <locus alsoKnownAs="pulmão">bofe</locus></condition>
+<condition xml:id="peripneumonia">Peripneumonia</condition>
+<condition xml:id="inflamacao">inflammaçoens interiores</condition>
+<condition xml:id="febre" type="maligna">febres malignas</condition>
+<condition xml:id="mordedura">mordeduras das cobras venenoſas</condition>
+<condition xml:id="camara">camaras de 
+<lb n="13"/>ſangue</condition>
+<condition xml:id="febre">febres</condition>
+<condition xml:id="pontada">pontadas</condition>
+<condition xml:id="veneno">veneno</condition>
+<condition xml:id="dor" type="nefrítica" locus="rim">dores Nephriticas</condition>
+<condition xml:id="lingua_grossa"><locus>lingua</locus> groſſa</condition>
+<condition xml:id="fastio">faſtio</condition>
+<condition xml:id="febre">febres</condition>
+<condition xml:id="febre">febres</condition>
+<condition xml:id="frios">frios</condition>
+<condition xml:id="colica">mordechim</condition>
+<condition xml:id="dor">dores de colica</condition>
+<condition xml:id="indigestao">indigeſtoens do <locus>eſtomago</locus></condition>
+<condition xml:id="supressão">ſuppreſſoens de ourina, altas, ou baixas</condition>
+<condition xml:id="camara">camaras</condition>
+<condition xml:id="parto">mulher que eſtiver de parto, ainda que eſteja mortal</condition>
+<condition xml:id="mordedura">mordedura de todos os bichos peçonhentos</condition>
+<condition xml:id="veneno">peçonha que ſe der no comer, ou beber</condition>
+<condition xml:id="envenenado">quem tomar <simple xml:id="anfiao" alsoKnownAs="opio">Anfiaõ</simple> miſturado com azeite</condition>
+<condition xml:id="usagre">uzagre</condition>
+<condition xml:id="amenorreia">mulher a quem faltar o 
+<lb n="7"/>dito ſangue</condition>
+<condition xml:id="dor">dor de <locus>dentes</locus></condition>
+<condition xml:id="erisipela">eryſipela</condition>
+<condition xml:id="dor">dor</condition>
+<condition xml:id="inchacao"><locus>inchaçaõ</locus></condition>
+<condition xml:id="ar" cert="unknown">quem for tocado do ar</condition>
+<condition xml:id="gases">ventoſidades</condition>
+<condition xml:id="febre" type="terçã">terçans</condition>
+<condition xml:id="febre" type="quartã">quartãs</condition>
+<condition xml:id="febre" type="maligna">febres malignas</condition>
+<condition xml:id="doencas_venenosas" cert="unknown">doenças venenoſas</condition>
+<condition xml:id="mordedura">mordeduras da cobra de Caſcavel</condition>
+<condition xml:id="veneno">veneno de bichos</condition>
+<condition xml:id="veneno">outros venenos</condition>
+<condition xml:id="dor">dores do <locus>eſtomago</locus></condition>
+<condition xml:id="obstrucao">obſtrucçoens</condition>
+<condition xml:id="febre" type="terçã">febres terçãs</condition>
+<condition xml:id="febre" type="quartã">quartãs</condition>
+<condition xml:id="febre">febres</condition>
+<condition xml:id="ferida">feridas freſcas com o ſangue</condition>
+<condition xml:id="canelada">caneladas freſcas</condition>
+<condition xml:id="pontada">pontadas</condition>
+<condition xml:id="pontada"><locus>pontada</locus></condition>
+<condition xml:id="opilacao">opilaçoens do <locus>ventre</locus> ſendo con<pc force="inter">-
+</pc><lb n="38"/>tinuada</condition>
+<condition xml:id="obstrucao">obſtrucçoens do <locus>eſtomago</locus></condition>
+<condition xml:id="dor">dor de <locus>dentes</locus></condition>
+<condition xml:id="mordedura">peſſoas a quem mordeo huma caſta de viboras que ha 
+<lb n="41"/>na India</condition>
+<condition xml:id="apostema">apoſtema</condition>
+<condition xml:id="abscesso">abſceſſo interior</condition>
+<condition xml:id="apostema">apoſtema</condition>
+<condition xml:id="abscesso">abſceſſo</condition>
+<condition xml:id="apostema"><locus>apoſtemas</locus></condition>
+<condition xml:id="abscesso">abſceſſos exteriores</condition>
+<condition xml:id="inchaco"><locus>perna</locus> inchada</condition>
+<condition xml:id="inchacao"><locus>inchaçaõ</locus></condition>
+<condition xml:id="pleurite">Pleuriz</condition>
+<condition xml:id="pontada"><locus>pontada</locus></condition>
+<condition xml:id="dor">dor</condition>
+<condition xml:id="pontada">pontada do Pleuriz.</condition>
+<condition xml:id="esquinencia">eſquinencia</condition>
+<condition xml:id="garrotilho">garrotilho</condition>
+<condition xml:id="parto">parto</condition>
+<condition xml:id="tumor">tumor</condition>
+<condition xml:id="erisipela">eryſipelas</condition>
+<condition xml:id="chaga">chaga</condition>
+<condition xml:id="inflamacao">inflammaçaõ do <locus>figado</locus></condition>
+<condition xml:id="hernia">hernias ventoſas, aquoſas, e carnoſas</condition>
+<condition xml:id="dor">dor</condition>
+<condition xml:id="inflamacao">inflammaçaõ</condition>
+<condition xml:id="hernia">hernias</condition>
+<condition xml:id="hernia">hernias</condition>
+<condition xml:id="dor">dores de <locus>dentes</locus></condition>
+<condition xml:id="dor">dores de <locus>cabeça</locus></condition>
+<condition xml:id="enxaqueca">xaqueca</condition>
+<condition xml:id="dor">dores de colica, e de <locus>barriga</locus></condition>
+<condition xml:id="gases">ventoſidades</condition>
+<condition xml:id="inchacao">inchaçoens do <locus>baço</locus>, e da <locus>barriga</locus></condition>
+<condition xml:id="camara">camaras, principalmente as de ſangue</condition>
+<condition xml:id="camara">camaras</condition>
+<condition xml:id="camara">camaras taõ deſenfreadas, e antigas</condition>
+<condition xml:id="dor">dores de <locus>eſtomago</locus></condition>
+<condition xml:id="azedume">azedumes da <locus>boca</locus></condition>
+<condition xml:id="carnosidade">carnoſidades</condition>
+<condition xml:id="supressao">ſuppreſſoens da ourina</condition>
+<condition xml:id="purgacao">purgaçoens da <locus alsoKnownAs="útero">madre</locus> de qualquer cor que ſejaõ</condition>
+<condition xml:id="purgacao">purgaçaõ</condition>
+<condition xml:id="amenorreia">falta deſta deſcarga</condition>
+<condition xml:id="flato">ſuffocado com flatos</condition>
+<condition xml:id="abafamento">abafamentos</condition>
+<condition xml:id="flatos_melancolicos">flatos melancolicos</condition>
+<condition xml:id="canelada">caneladas</condition>
+<condition xml:id="ferida">feridas freſcas</condition>
+<condition xml:id="garrotilho">garrotilho</condition>
+<condition xml:id="esquinencia">eſquinencia</condition>
+<condition xml:id="penfigo">fogo ſalvagem</condition>
+<condition xml:id="leicenco">leicenços</condition>
+<condition xml:id="apestado">apeſtados</condition>
+<condition xml:id="mordedura">mordeduras de caõ danado, e bichos peçonhentos</condition>
+<condition xml:id="inchacao" type="fleumonosa">inchaçaõ fleumonoſa</condition>
+<condition xml:id="apostema"><locus>apoſtema</locus></condition>
+<condition xml:id="ictericia">Ictericia</condition>
+<condition xml:id="gonorreia">eſquentamentos</condition>
+<condition xml:id="febre" type="intermitente">febres in<pc force="inter">-
+</pc><lb n="51"/>termittentes</condition>
+<condition xml:id="inchacao">inchaçoens do <locus>ventre</locus></condition>
+<condition xml:id="hidropisia">hydropicas</condition>
+<condition xml:id="dor">dores</condition>
+<condition xml:id="pontada">pontadas</condition>
+<condition xml:id="fraqueza">fraqueza de <locus>nervos</locus></condition>
+<condition xml:id="encolhimento">encolhimento</condition>
+<condition xml:id="paralisia">tolhido</condition>
+<condition xml:id="aleijado">aleijado</condition>
+<condition xml:id="tumor">tumor</condition>
+<condition xml:id="dureza">dureza</condition>
+<condition xml:id="inchacao">inchaçaõ</condition>
+<condition xml:id="veneno">peçonha</condition>
+<condition xml:id="mordedura">mordedura venenoſa</condition>
+<condition xml:id="veneno">veneno (excep<pc force="inter">-
+</pc><lb n="42"/>to os corroſivos)</condition>
+<condition xml:id="veneno">bebida venenoſa</condition>
+<condition xml:id="mordedura">mordeduras de animaes peçonhentos</condition>
+<condition xml:id="dor" type="intrínseca">dor intrinſeca</condition>
+<condition xml:id="vomito">vomitos</condition>
+<condition xml:id="colica">colica</condition>
+<condition xml:id="flato">flatos</condition>
+<condition xml:id="pontada">pon<pc force="inter">-
+</pc><lb n="5"/>tadas</condition>
+<condition xml:id="lombrigas">lombrigas</condition>
+<condition xml:id="camara">camaras</condition>
+<condition xml:id="dor">dores de
+<lb n="7"/><locus>rins</locus>, <locus>bexiga</locus>, area, e pedra</condition>
+<condition xml:id="achaque">achaque da <locus>cabeça</locus></condition>
+<condition xml:id="paralisia">parleſia</condition>
+<condition xml:id="epilepsia">epilepſia</condition>
+<condition xml:id="apoplexia">apoplexia</condition>
+<condition xml:id="melancolia">melancolia</condition>
+<condition xml:id="doencas_epidemicas">doenças epidemicas</condition>
+<condition xml:id="febre" type="maligna">febres malignas</condition>
+<condition xml:id="bexigas">bexigas</condition>
+<condition xml:id="sarampo">ſarampaõ</condition>
+<condition xml:id="doencas_utero">ſuffocaçaõ da <locus alsoKnownAs="útero">madre</locus></condition>
+<condition xml:id="convulsao">convulſaõ</condition>
+<condition xml:id="flato">flatos</condition>
+<condition xml:id="dor">dores</condition>
+<condition xml:id="amenorreia">reten<pc force="inter">-
+</pc><lb n="17"/>çaõ dos menſtruos</condition>
+<condition xml:id="opilacao">opilaçaõ da <locus alsoKnownAs="útero">madre</locus></condition>
+<condition xml:id="parto">parto</condition>
+<condition xml:id="doencas_mulheres">doenças das mulheres</condition>
+<condition xml:id="febre">febres</condition>
+<condition xml:id="colica">colicas</condition>
+<condition xml:id="lombrigas">lombrigas</condition>
+<condition xml:id="hidropisia">hydropicos</condition>
+<condition xml:id="paralisia">paraliticos</condition>
+<condition xml:id="alporca">al<pc force="inter">-
+</pc><lb n="4"/>porquentos</condition>
+<condition xml:id="ictericia">Ictericia</condition>
+<condition xml:id="ictericia">Ictericias</condition>
+<condition xml:id="ictericia">Ictericia</condition>
+<condition xml:id="febre" type="sezao">cezoens</condition>
+<condition xml:id="ictericia">Ictericia</condition>
+<condition xml:id="remeloso">rameloſos</condition>
+<condition xml:id="humidos">humidos</condition>
+<condition xml:id="inflamacao">inflammados</condition>
+<condition xml:id="mordedura">mordeduras das cobras mais venenosas</condition>
+<condition xml:id="febre">grandes
+<lb n="38"/>febres</condition>
+<condition xml:id="dor">dor quente, ou fria</condition>
+<condition xml:id="inchacao">inchaçaõ</condition>
+<condition xml:id="gota">gotta</condition>
+<condition xml:id="pontada">pontadas</condition>
+<condition xml:id="inchacao">inchaçaõ das <locus>pernas</locus></condition>
+<condition xml:id="erisipela">Eryſipelas</condition>
+<condition xml:id="paralisia">parleſias</condition>
+<condition xml:id="dor">dores de <locus>eſtomago</locus></condition>
+<condition xml:id="dor">dores de <locus>eſtomago</locus></condition>
+<condition xml:id="gota">gotta</condition>
+<condition xml:id="gota">gotta</condition>
+<condition xml:id="ferida">feridas</condition>
+<condition xml:id="dor">do<pc force="inter">-
+</pc><lb n="13"/>res da <locus alsoKnownAs="útero">madre</locus></condition>
+<condition xml:id="pedra">areas</condition>
+<condition xml:id="mordedura">mordeduras de bichos peçonhentos</condition>
+<condition xml:id="veneno">veneno, que malicioſamente ſe deo para matar alguem</condition>
+<condition xml:id="febre" type="maligna">febres
+<lb n="18"/>malignas</condition>
+<condition xml:id="febre" type="maligna">febres maligniſſimas</condition>
+<condition xml:id="pedra">accidentes de pedra</condition>
+<condition xml:id="lombrigas">lombrigas</condition>
+<condition xml:id="febre" type="maligna">febres malig<pc force="inter">-
+</pc><lb n="37"/>nas</condition>
+<condition xml:id="lepra">lepra</condition>
+<condition xml:id="comichao">comichoens deſeſperadas</condition>
+<condition xml:id="mordedura">mordeduras venenoſas</condition>
+<condition xml:id="mordedura">mordeduras da cobra</condition>
+<condition xml:id="mordedura"><locus>mordedura</locus></condition>
+<condition xml:id="ferida">feridas de
+<lb n="17"/>bichos peçonhentos</condition>
+<condition xml:id="veneno">toda a outra eſpecie de
+<lb n="19"/>veneno</condition>
+<condition xml:id="febre">febres</condition>
+<condition xml:id="dor" type="nefrítica" locus="rim">dores Nephriticas</condition>
+<condition xml:id="inflamacao">inflammaçoens</condition>
+<condition xml:id="bostela">boſtelas da <locus>cabeça</locus></condition>
+<condition xml:id="veneno">todo o veneno</condition>
+<condition xml:id="febre">febres</condition>
+<condition xml:id="ventosidades_melancolicas">ventoſidades melancolicas</condition>
+<condition xml:id="obstrucao">obſtrucçoens</condition>
+<condition xml:id="bexigas">bexi<pc force="inter">-
+</pc><lb n="32"/>gas.</condition>
+<condition xml:id="febre" type="maligna">febres malignas</condition>
+<condition xml:id="pleurite">febres procedidas de Pleurizes</condition>
+<condition xml:id="gases">ventoſidades</condition>
+<condition xml:id="flato">flatos</condition>
+<condition xml:id="humor">colera</condition>
+<condition xml:id="doencas_digestivas" cert="unknown"><locus>eſtomago</locus> resfriado, ou re<pc force="inter">-
+</pc><lb n="40"/>laxado.</condition>
+<condition xml:id="veneno">contra toda a eſpecie
+<lb n="42"/>de veneno</condition>
+<condition xml:id="veneno">de bichos peçonhentos</condition>
+<condition xml:id="ferida"><locus>ferida</locus></condition>
+<condition xml:id="febre" type="maligna">febres malignas</condition>
+<condition xml:id="inflamacao">inflammaçoens do <locus>figa<pc force="inter">-
+</pc><lb n="2"/>do</locus>, e <locus alsoKnownAs="pulmão">bofe</locus></condition>
+<condition xml:id="gangrena">grangrena</condition>
+<condition xml:id="gangrena">gran<pc force="inter">-
+</pc><lb n="4"/>grena</condition>
+<condition xml:id="dor">dores de
+<lb n="7"/>colica</condition>
+<condition xml:id="veneno">veneno</condition>
+<condition xml:id="dor">dores de <locus>eſtomago</locus></condition>
+<condition xml:id="lombrigas">lombrigas</condition>
+<condition xml:id="mordedura">mordeduras
+<lb n="14"/>de bichos peçonhentos</condition>
+<condition xml:id="ferida"><locus>ferida</locus></condition>
+<condition xml:id="colera">mor<pc force="inter">-
+</pc><lb n="16"/>dexim</condition>
+<condition xml:id="dor">dores de <locus>eſtomago</locus>, e do <locus>ventre</locus></condition>
+<condition xml:id="gases">ventoſi<pc force="inter">-
+</pc><lb n="17"/>dades</condition>
+<condition xml:id="febre" type="quartã">quartans</condition>
+<condition xml:id="desmaio">accidentes</condition>
+<condition xml:id="epilepsia">gotta coral</condition>
+<condition xml:id="desmaio">accidente</condition>
+<condition xml:id="desmaio">accidente</condition>
+<condition xml:id="veneno">genero de peçonha</condition>
+<condition xml:id="mordedura">mordedura de cobra, ou de outros quaeſquer bichos peçonhentos</condition>
+<condition xml:id="assombrado">aſſombrados</condition>
+<condition xml:id="endemoninhado">endemoninhados</condition>
+<condition xml:id="embriagues">bebados</condition>
+<condition xml:id="apostema">apoſtemas</condition>
+<condition xml:id="dor">dor de enxaqueca</condition>
+<condition xml:id="doencas_utero">accidentes da <locus alsoKnownAs="útero">madre</locus></condition>
+<condition xml:id="modorra">modorra</condition>
+<condition xml:id="veneno">peſſoas, a quem ſe deo algum veneno</condition>
+<condition xml:id="camara">camarentos</condition>
+<condition xml:id="modorra">modorra</condition>
+<condition xml:id="sono_profundo">ſomno taõ profundo</condition>
+<condition xml:id="sono_profundo">ſomnos peſadiſſimos</condition>
+<condition xml:id="modorra">modorras</condition>
+<condition xml:id="disturbios_sono">affectos ſoporoſos</condition>
+<condition xml:id="modorra">modorras invenciveis</condition>
+<condition xml:id="modorra">modorras</condition>
+<condition xml:id="febre" type="aguda">febres
+<lb n="28"/>agudas</condition>
+<condition xml:id="debilitado">proſtrado</condition>
+<condition xml:id="debilitado">desfale<pc force="inter">-
+</pc><lb n="32"/>cido</condition>
+<condition xml:id="debilitado">esfalfado</condition>
+<condition xml:id="fastio">faſtientos</condition>
+<condition xml:id="erisipela">eryſipela na <locus>cara</locus></condition>
+<condition xml:id="erisipela">eryſipela</condition>
+<condition xml:id="mordedura">mordeduras</condition>
+<condition xml:id="mordedura">mordeduras</condition>
+<condition xml:id="pedra">pedra dos <locus>rins</locus>, e da <locus>bexiga</locus></condition>
+<condition xml:id="hidropisia">hydropeſias, de qualquer caſta, e condiçaõ que ſejaõ</condition>
+<condition xml:id="supressao">ſuppreſſoens de ourina</condition>
+<condition xml:id="supressao">ſuppreſſoens; ou ſejaõ altas, ou baxas</condition>
+<condition xml:id="supressao">ſuppreſſoens altas</condition>
+<condition xml:id="mordedura">morde<pc force="inter">-
+    
+<pb n="25"/>
+    
+</pc><lb n="1"/>duras venenoſas</condition>
+<condition xml:id="mordedura">mordeduras de animaes venenoſos</condition>
+<condition xml:id="ferida">feridas penetrantes, ou ſejaõ de armas, ou de balas</condition>
+<condition xml:id="ferida"><locus>feridas</locus></condition>
+<condition xml:id="ferida"><locus>ferida</locus> tenha ſangue pizado</condition>
+<condition xml:id="ferida">ferida</condition>
+<condition xml:id="chaga">chaga velha, e rebelde, ainda que haja miſter cauteri<pc force="inter">-
+</pc><lb n="38"/>zada</condition>
+<condition xml:id="chaga"><locus>chaga</locus></condition>
+<condition xml:id="chaga"><locus>chaga</locus></condition>
+<condition xml:id="chaga">chaga</condition>
+<condition xml:id="camara">curſos de ſangue</condition>
+<condition xml:id="dor">dor de <locus>olhos</locus></condition>
+<condition xml:id="cutilada">cutiladas abertas</condition>
+<condition xml:id="ferida"><locus>ferida</locus></condition>
+<condition xml:id="ferida"><locus>ferida</locus></condition>
+<condition xml:id="ferida"><locus>ferida</locus></condition>
+<condition xml:id="febre" type="maligna">maligna</condition>
+<condition xml:id="sangue_abundante">abundan<pc force="inter">-
+</pc><lb n="19"/>te de ſangue</condition>
+<condition xml:id="febre" type="lenta">febreſinha lenta</condition>
+<condition xml:id="sangue_abundante">haver ſangue demaſiado nas veas</condition>
+<condition xml:id="febre">febre</condition>
+<condition xml:id="febre" type="maligna">malignas</condition>
+<condition xml:id="febre" type="terçã">terçãs ſimplices, ou dobres, ou continuas</condition>
+<condition xml:id="febre" type="quartã">quartãs</condition>
+<condition xml:id="obstrucao">obſtrucçoens grandes</condition>
+<condition xml:id="inchaco"><locus>boca do eſtomago</locus> inchada</condition>
+<condition xml:id="febre">fe<pc force="inter">-
+</pc><lb n="28"/>bres</condition>
+<condition xml:id="febre" type="quartã">quartans</condition>
+<condition xml:id="febre" type="quartã">quartans forem dobres, ou vierem todos os dias</condition>
+<condition xml:id="febre" type="maligna">malignas</condition>
+<condition xml:id="febre" type="sezao">cezaõ</condition>
+<condition xml:id="lingua_negra_amarela" cert="unknown"><locus>lingua</locus> ſe faz negra,
+<lb n="7"/>ou amarella.</condition>
+<condition xml:id="apostema">apoſtemas</condition>
+<condition xml:id="nascida">naſcidas</condition>
+<condition xml:id="mula">mulas</condition>
+<condition xml:id="carbunculo">carbunculos</condition>
+<condition xml:id="pisadura">pizaduras de ſangue</condition>
+<condition xml:id="pleurite">Pleuriz</condition>
+<condition xml:id="pontada">pontadas de ſangue</condition>
+<condition xml:id="apostema">apoſtema</condition>
+<condition xml:id="nascida">naſcida</condition>
+<condition xml:id="apostema">apoſtema</condition>
+<condition xml:id="nascida">naſcida</condition>
+<condition xml:id="apostema">apoſtema</condition>
+<condition xml:id="ar" cert="unknown">peſſoa que tiver o ar</condition>
+<condition xml:id="febre">febres</condition>
+<condition xml:id="dor">dores de
+<lb n="39"/><locus>cabeça</locus></condition>
+<condition xml:id="dor">dores de <locus>cabeça</locus></condition>
+<condition xml:id="ar" cert="unknown">mal do ar</condition>
+<condition xml:id="ar" cert="unknown">eſtiver jà tocado deſte mal</condition>
+<condition xml:id="ar" cert="unknown">ar</condition>
+<condition xml:id="paralisia">paralyſia</condition>
+<condition xml:id="epilepsia">gotta coral</condition>
+<condition xml:id="ar" cert="unknown">tocada deſtes males do ar</condition>
+<condition xml:id="paralisia">paralyſia</condition>
+<condition xml:id="encolhimento"><locus>membros</locus> encolhidos</condition>
+<condition xml:id="caibra"><locus>membros</locus> apoderados da cambra</condition>
+<condition xml:id="gravidez">prenhadas</condition>
+<condition xml:id="corrimento">corrimentos frios da <locus>cabeça</locus></condition>
+<condition xml:id="dor">grandes dores da <locus alsoKnownAs="útero">madre</locus></condition>
+<condition xml:id="fraqueza">grandes fraquezas</condition>
+<condition xml:id="ansias">ancias do <locus>coraçaõ</locus></condition>
+<condition xml:id="catarro">catarro</condition>
+<condition xml:id="corrimento">corrimentos</condition>
+<condition xml:id="dor">dor de <locus>dentes</locus></condition>
+<condition xml:id="ictericia" alsoKnownAs="ictericia">tericia</condition>
+<condition xml:id="colica">colica</condition>
+<condition xml:id="dor">dores da <locus alsoKnownAs="útero">madre</locus></condition>
+<condition xml:id="parto">deitar as pareas, quando naõ querem ſahir</condition>
+<condition xml:id="amenorreia">menſtruo que naõ quer vir</condition>
+<condition xml:id="cuspir" type="sangue">coſpem</condition>
+<condition xml:id="vomito" type="sangue">vomitaõ ſangue</condition>
+<condition xml:id="atordoado" cert="unknown">aos que lhes foge o lume dos olhos; e ficaõ como atordoados</condition>
+<condition xml:id="empachamento">empa<pc force="inter">-
+</pc><lb n="44"/>chamento das aguas.</condition>
+<condition xml:id="esquinencia">eſquinencias</condition>
+<condition xml:id="inflamacao">inflamma<pc force="inter">-
+</pc><lb n="2"/>çaõ de <locus>garganta</locus></condition>
+<condition xml:id="dor">dores</condition>
+<condition xml:id="tumor">tumores</condition>
+<condition xml:id="inflamacao">inflammaçaõ</condition>
+<condition xml:id="inflamacao">inflammaçaõ dos <locus>olhos</locus></condition>
+<condition xml:id="chaga">toda a caſta de chagas</condition>
+<condition xml:id="insonia">quem naõ póde dormir</condition>
+<condition xml:id="hemorroida">almorreimas</condition>
+<condition xml:id="dor">dores</condition>
+<condition xml:id="colica" type="gases">colicas ventoſas</condition>
+<condition xml:id="colica" type="biliosa">belioſas</condition>
+<condition xml:id="enchimento">enchimento do <locus>eſtomago</locus></condition>
+<condition xml:id="dor">dor de <locus>ventre</locus></condition>
+<condition xml:id="esquinencia">eſquinencias</condition>
+<condition xml:id="pleurite">Pleurizes</condition>
+<condition xml:id="fluxo">fluxo de
+<lb n="13"/>ſangue</condition>
+<condition xml:id="fluxo">ventre</condition>
+<condition xml:id="dor">dores de <locus>cabeça</locus></condition>
+<condition xml:id="veneno">veneno</condition>
+<condition xml:id="veneno">veneno</condition>
+<condition xml:id="erisipela">eryſipelas</condition>
+<condition xml:id="inflamacao">inflammaçoens dos <locus>teſticulos</locus></condition>
+<condition xml:id="erisipela"><locus>eryſipela</locus></condition>
+<condition xml:id="inflamacao">inflammada</condition>
+<condition xml:id="dor">doloroſa</condition>
+<condition xml:id="dor">dores de gotta quen<pc force="inter">-
+</pc><lb n="5"/>te</condition>
+<condition xml:id="camara">camaras de ſangue</condition>
+<condition xml:id="paralesia"><locus>par<pc force="inter">-
+</pc><lb n="22"/>tes paraliticas</locus> offendidas do ar</condition>
+<condition xml:id="camara">camaras de frio</condition>
+<condition xml:id="doencas_utero">accidentes da <locus alsoKnownAs="útero">madre</locus></condition>
+<condition xml:id="dor">dores de <locus>cabeça</locus></condition>
+<condition xml:id="camara">camaras</condition>
+<condition xml:id="tosse">toſſigoſos</condition>
+<condition xml:id="empiema">impiematicos</condition>
+<condition xml:id="asma">aſthma</condition>

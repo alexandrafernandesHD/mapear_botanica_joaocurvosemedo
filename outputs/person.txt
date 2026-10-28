@@ -1,0 +1,35 @@
+<person xml:id="padre_gaspar_antonio" cert="high">Padre Gaſpar
+<lb n="23"/>Antonio</person>
+<person xml:id="padre_jorge_ungarete" cert="high">Padre Jorge Ungarete</person>
+<person xml:id="manoel_castro_guimares" cert="high">Manoel de Caſtro Guimarães</person>
+<person xml:id="antonia_mauricia" cert="unknown">Dona Antonia Mauricia</person>
+<person xml:id="eustachio_rudio" cert="high">Euſtachio Rudio</person>
+<person xml:id="galeno" cert="high">Galeno</person>
+<person xml:id="caetano_mello_castro" cert="high">Caetano de Mello de Caſtro</person>
+<person xml:id="vanhelmont" cert="high">Vanhelmonte</person>
+<person xml:id="guaineri" cert="high">Guaynere</person>
+<person xml:id="francisco_robalo_freire" cert="high">Doutor Franciſco Roballo Freire</person>
+<person xml:id="s_francisco_xavier" cert="high">S.Franciſco Xavier</person>
+<person xml:id="vanhelmont" cert="high">Vanelmoncio</person>
+<person xml:id="francisco_robalo_freire" cert="high">Doutor Franciſco Roballo Frey<pc force="inter">-
+ </pc><lb n="3"/>re</person>
+<person xml:id="rafael_bluteau" cert="high">D. Rafael Bluteau</person>
+<person xml:id="manoel_araujo" cert="unknown">Manoel de Araujo</person>
+<person xml:id="matias_mendes" cert="high">Doutor Mathias Mendes</person>
+<person xml:id="luis_serrao_pimentel" cert="high">Luis Serraõ Pimentel</person>
+<person xml:id="senhor_aguas_belas" cert="unknown">Senhor de Aguas bellas</person>
+<person xml:id="francisco_robalo_freire" cert="high">Doutor Franciſco Roballo Freyre</person>
+<person xml:id="pietro_castelli" cert="high">Pedro Caſtello</person>
+<person xml:id="francisco_ferreira_nobre" cert="unknown">Franciſco Ferreira
+<lb n="39"/>Nobre</person>
+<person xml:id="martin_rulland" cert="high">Martim Rullando</person>
+<person xml:id="joao_curvo_semedo" cert="high">Joaõ Curvo Semmedo</person>
+<person xml:id="d_pedro_ii" cert="high">Senhor Rey D.Pedro II.</person>
+<person xml:id="guilherme_piso" cert="high">Guilherme Piſaõ</person>
+<person xml:id="robert_boyle" cert="high">Roberto Boile</person>
+<person xml:id="caetano_mello_castro" cert="high">Caetano de
+<lb n="17"/>Mello de Caſtro</person>
+<person xml:id="astruc" cert="low">Monſieur Eſtru<pc force="inter">-
+</pc><lb n="27"/>que</person>
+<person xml:id="alexandre" cert="unknown">Alexandre</person>
+<person xml:id="manoel_pereira" cert="unknown">Manoel Pereira</person>
