@@ -1,6 +1,6 @@
 import re
 
-with open("final.xml", "r", encoding="utf-8") as f:
+with open("memorialanotado.xml", "r", encoding="utf-8") as f:
     texto = f.read()
 
 conditions = re.findall(r"<condition\b.*?</condition>", texto, re.DOTALL)
