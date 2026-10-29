@@ -7,6 +7,7 @@
 <p><strong>Códigos</strong></p>
 <p><strong>Outputs</strong></p>
 <p><strong>Tabelas</strong></p>
+<p><strong>Transcrições</strong></p>
 
 <h2>Conteúdo das Pastas</h2>
 
@@ -46,4 +47,10 @@
 * Tipo-Condições - Tabela com a lista de condições, seus tipos e número de ocorrências. 
 * Origem - Tabela com os símplices por origem.
 * Pessoas - Tabela com as pessoas mencionadas e o seu número de ocorrências.
+
+-----------------------------
+<p><strong>Códigos</strong></p>
+<p>Nesta pasta é possível consultar os códigos Python utilizados no âmbito da normalização do "s" longo e os códigos utilizados para extrair segmentos e contar etiquetas.</p>
+
+**Documentos**
 
