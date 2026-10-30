@@ -11,7 +11,7 @@
 <p><strong>Outputs</strong></p>
 <p><strong>Tabelas</strong></p>
 <p><strong>Transcrições</strong></p>
-----------
+
 <h2>Conteúdo das Pastas</h2>
 
 <p><strong>Anotação</strong></p>
@@ -51,11 +51,11 @@
 
 **Documentos**
 * botanica_joaocurvosemedo.xlsx - Livro de Excel que contém as seguintes folhas:
-Bibliografia - Tabela com a bibliografia extraída no Memorial, os seus autores e número de ocorrências.
-Condições - Tabela com a lista de condições anotadas e o seu número de ocorrências.
-Tipo-Condições - Tabela com a lista de condições, seus tipos e número de ocorrências. 
-Origem - Tabela com os símplices por origem declarada no <i>Memorial</i>.
-Pessoas - Tabela com as pessoas mencionadas e número de ocorrências.
+<p>Bibliografia - Tabela com a bibliografia extraída no Memorial, os seus autores e número de ocorrências.</p>
+<p>Condições - Tabela com a lista de condições anotadas e o seu número de ocorrências.</p>
+<p>Tipo-Condições - Tabela com a lista de condições, seus tipos e número de ocorrências.</p> 
+<p>Origem - Tabela com os símplices por origem declarada no <i>Memorial</i>.</p>
+<p>Pessoas - Tabela com as pessoas mencionadas e número de ocorrências.</p>
 ---------- 
 <p><strong>Transcrição</strong></p>
 <p>Nesta pasta encontram-se as duas versões resultantes do processo de transcrição do <i>Memorial</i>.</p>
