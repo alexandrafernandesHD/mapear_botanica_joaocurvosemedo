@@ -17,7 +17,8 @@
 
 **Documentos**
 * memorialsimplex.dtd - Esquema DTD que nos permite anotar o <i>Memorial</i> de acordo com a hierarquia e declarações estabelecidas. 
-*
+* memorialanotado.xml - Ficheiro XML válido com o <i>Memorial</i> anotado segundo o esquema DTD. 
+  
 <p><strong>Códigos</strong></p>
 <p>Nesta pasta é possível consultar os códigos Python utilizados no âmbito da normalização do "s" longo e os códigos utilizados para extrair segmentos e contar etiquetas.</p>
 
