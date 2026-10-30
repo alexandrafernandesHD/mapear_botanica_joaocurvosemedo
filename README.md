@@ -2,7 +2,7 @@
 
 <h1>Descrição</h2>
 <p>Neste repositório estão disponíveis os códigos de linguagem Python utilizados no decorrer da dissertação, assim como as transcrições que resultaram do trabalho desenvolvido no decorrer desta dissertação, a sua anotação em linguagem XML e o esquema DTD da anotação.</p>
-<p>As tabelas Excel que permitem que o utilizar as organize por filtros foram incluídas neste repositório.</p>
+<p>As tabelas Excel que permitem que o utilizador as organize por filtros foram incluídas neste repositório.</p>
 <p>Fornecemos ainda os resultados das extrações, sem qualquer edição.</p>
 
 <h2>Pastas que compõem o Repositório</h2>
@@ -60,7 +60,7 @@
 ---------- 
 <p><strong>Transcrição</strong></p>
 <p>Nesta pasta encontram-se as duas versões resultantes do processo de transcrição do <i>Memorial</i>.</p>
-<p>São documentos <i>plain text</i> de extensão .txt .</p>
+<p>São documentos <i>plain text</i> de extensão .txt.</p>
 
 **Documentos**
 * memorial.txt - Transcrição do <i>Memorial</i> com a ortografia tal como na obra original.
