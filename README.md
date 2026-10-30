@@ -4,6 +4,7 @@
 <p></p>
 
 <h2>Pastas que compõem o Repositório</h2>
+<p><strong>Anotação</strong></p>
 <p><strong>Códigos</strong></p>
 <p><strong>Outputs</strong></p>
 <p><strong>Tabelas</strong></p>
@@ -11,6 +12,12 @@
 
 <h2>Conteúdo das Pastas</h2>
 
+<p><strong>Anotação</strong></p>
+<p>Nesta pasta é possível consultar o esquema DTD utilizado para anotar o <i>Memorial</i> e a versão anotada do mesmo.</p>
+
+**Documentos**
+* memorialsimplex.dtd - Esquema DTD que nos permite anotar o <i>Memorial</i> de acordo com a hierarquia e declarações estabelecidas. 
+*
 <p><strong>Códigos</strong></p>
 <p>Nesta pasta é possível consultar os códigos Python utilizados no âmbito da normalização do "s" longo e os códigos utilizados para extrair segmentos e contar etiquetas.</p>
 
