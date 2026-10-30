@@ -66,7 +66,7 @@
 * memorial.txt - Transcrição do <i>Memorial</i> com a ortografia tal como na obra original.
 * memorial_s.txt - Transcrição do <i>Memorial</i> onde o "s" longo foi normalizado para "s".
 ---------- 
-Documentos elaborados por Susana Alexandra Coutinho de Oliveira e Marques Fernandes 
-Mestrado em Humanidades Digitais
-Escola de Letras, Artes e Ciências Humanas (ELACH), Universidade do Minho
-Outubro de 2026
+<p>Documentos elaborados por Susana Alexandra Coutinho de Oliveira e Marques Fernandes</p> 
+<p>Mestrado em Humanidades Digitais</p>
+<p>Escola de Letras, Artes e Ciências Humanas (ELACH), Universidade do Minho</p>
+<p></p>Outubro de 2026</p>
