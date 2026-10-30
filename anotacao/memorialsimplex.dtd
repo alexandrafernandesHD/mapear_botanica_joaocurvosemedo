@@ -1,0 +1,76 @@
+
+<!ELEMENT TEI (teiHeader, text)>
+<!ELEMENT teiHeader (fileDesc)>
+<!ATTLIST teiHeader  xml:lang CDATA #IMPLIED>
+<!ELEMENT fileDesc (titleStmt,publicationStmt, sourceDesc)>
+<!ELEMENT publicationStmt (p)>
+<!ELEMENT titleStmt (title*, author, respStmt)>
+<!ELEMENT respStmt (resp, name)>
+<!ELEMENT resp (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT sourceDesc (ref,p*)>
+<!ELEMENT ref (#PCDATA)>
+<!ATTLIST ref  target CDATA #REQUIRED>
+
+<!ELEMENT text (front, body, back)>
+<!ATTLIST text  xml:lang CDATA #IMPLIED>
+<!ELEMENT pb EMPTY>
+<!ATTLIST pb n CDATA #REQUIRED>
+
+<!ELEMENT front (pb| div | p)*>
+<!ELEMENT div ((title | p* | pb | lb | emph |div)*)>
+<!ATTLIST div type CDATA #REQUIRED>
+<!ATTLIST div xml:lang CDATA #IMPLIED>
+<!ATTLIST div rend CDATA #IMPLIED>
+<!ELEMENT title (#PCDATA |lb |pc |choice | simple |emph | origin)*>
+<!ATTLIST title type CDATA #IMPLIED>
+<!ATTLIST title rend CDATA #IMPLIED>
+<!ATTLIST title alsoKnownAs CDATA #IMPLIED>
+
+<!ELEMENT p (#PCDATA | lb | pc | pb | emph | choice | desc | prescription | origin |person |simple |bibl |quote| condition | compound)*>
+<!ELEMENT body (div*)>
+<!ELEMENT choice (sic |corr | pc | reg |orig)*>
+<!ELEMENT orig (#PCDATA)>
+<!ELEMENT reg (#PCDATA)>
+<!ELEMENT quote (#PCDATA |emph)*>
+<!ATTLIST quote xml:lang CDATA #IMPLIED>
+<!ELEMENT sic (#PCDATA | pc | lb)*>
+<!ELEMENT corr (#PCDATA)>
+<!ELEMENT emph (#PCDATA | lb |title | choice)*>
+<!ATTLIST emph rend CDATA #REQUIRED>
+
+<!ELEMENT origin (#PCDATA |lb)*>
+<!ATTLIST origin simple CDATA #REQUIRED>
+<!ELEMENT person (#PCDATA | lb | pc )*>
+<!ATTLIST person xml:id CDATA #REQUIRED>
+<!ATTLIST person cert CDATA #IMPLIED>
+<!ELEMENT simple (#PCDATA | pc | lb |origin | choice)*>
+<!ATTLIST simple xml:id CDATA #REQUIRED>
+<!ATTLIST simple cert CDATA #IMPLIED>
+<!ATTLIST simple prepareWith CDATA #IMPLIED>
+<!ATTLIST simple alsoKnownAs CDATA #IMPLIED>
+<!ELEMENT desc (#PCDATA |lb |choice |origin | prescription |simple | pc | condition | pb |locus|person )*>
+<!ELEMENT prescription (#PCDATA |lb| locus | condition |pc |choice | simple |bibl| pb | emph | person |compound |element)*>
+<!ELEMENT locus (#PCDATA | pc |lb|choice)*>
+<!ATTLIST locus alsoKnownAs CDATA #IMPLIED>
+<!ELEMENT condition (#PCDATA |lb |locus |pc| simple)*>
+<!ATTLIST condition alsoKnownAs CDATA #IMPLIED>
+<!ATTLIST condition xml:id CDATA #REQUIRED>
+<!ATTLIST condition cert CDATA #IMPLIED>
+<!ATTLIST condition type CDATA #IMPLIED>
+<!ATTLIST condition locus CDATA #IMPLIED>
+<!ELEMENT compound (#PCDATA)>
+<!ATTLIST compound alsoKnownAs CDATA #IMPLIED>
+<!ATTLIST compound type CDATA #IMPLIED>
+<!ATTLIST compound contains CDATA #IMPLIED>
+<!ELEMENT element (#PCDATA |pc | lb)*>
+<!ATTLIST element alsoKnownAs CDATA #IMPLIED>
+<!ATTLIST element type CDATA #IMPLIED>
+<!ELEMENT bibl (#PCDATA |lb |title |pc |emph | choice)*>
+<!ELEMENT lb EMPTY>
+<!ATTLIST lb n CDATA #IMPLIED>
+<!ELEMENT pc (#PCDATA | pb | choice | corr)*>
+<!ATTLIST pc force CDATA #IMPLIED>
+
+<!ELEMENT back (pb| div)*>
