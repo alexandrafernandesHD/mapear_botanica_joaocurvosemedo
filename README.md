@@ -15,11 +15,11 @@
 <h2>Conteúdo das Pastas</h2>
 
 <p><strong>Anotação</strong></p>
-<p>Nesta pasta é possível consultar o esquema DTD utilizado para anotar o <i>Memorial</i> e a versão anotada com recurso à linguagem XML do mesmo .</p>
+<p>Nesta pasta é possível consultar o esquema DTD utilizado para anotar o <i>Memorial de Varios Simplices</i> de João Curvo Semedo, doravante designado por <i>Memorial</i>, e a versão anotada com recurso à linguagem XML do mesmo .</p>
 
 **Documentos**
-* memorialsimplex.dtd - Esquema DTD que nos permitiu anotar o <i>Memorial de Varios Simplices</i> de acordo com a hierarquia e as declarações estabelecidas. 
-* memorialanotado.xml - Ficheiro XML válido com o <i>Memorial de Varios Simplices</i> anotado segundo o esquema DTD anterior. 
+* memorialsimplex.dtd - Esquema DTD que nos permitiu anotar o <i>Memorial</i> de acordo com a hierarquia e as declarações estabelecidas. 
+* memorialanotado.xml - Ficheiro XML válido com o <i>Memorial</i> anotado segundo o esquema DTD anterior. 
  ---------- 
 <p><strong>Códigos</strong></p>
 <p>Nesta pasta é possível consultar os códigos Python utilizados.</p> 
@@ -51,7 +51,7 @@
 
 **Documentos**
 * botanica_joaocurvosemedo.xlsx - Livro de Excel que contém as seguintes folhas:
-<p>Bibliografia - Tabela com a bibliografia extraída no Memorial, os seus autores e número de ocorrências.</p>
+<p>Bibliografia - Tabela com a bibliografia extraída do <i>Memorial</i>, os seus autores e número de ocorrências.</p>
 <p>Condições - Tabela com a lista de condições anotadas e o seu número de ocorrências.</p>
 <p>Tipo-Condições - Tabela com a lista de condições, seus tipos e número de ocorrências.</p> 
 <p>Origem - Tabela com os símplices por origem declarada no <i>Memorial</i>.</p>
