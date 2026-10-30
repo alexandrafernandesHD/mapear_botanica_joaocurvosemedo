@@ -56,6 +56,7 @@
 <p>Tipo-Condições - Tabela com a lista de condições, seus tipos e número de ocorrências.</p> 
 <p>Origem - Tabela com os símplices por origem declarada no <i>Memorial</i>.</p>
 <p>Pessoas - Tabela com as pessoas mencionadas e número de ocorrências.</p>
+
 ---------- 
 <p><strong>Transcrição</strong></p>
 <p>Nesta pasta encontram-se as duas versões resultantes do processo de transcrição do <i>Memorial</i>.</p>
@@ -64,7 +65,7 @@
 **Documentos**
 * memorial.txt - Transcrição do <i>Memorial</i> com a ortografia tal como na obra original.
 * memorial_s.txt - Transcrição do <i>Memorial</i> onde o "s" longo foi normalizado para "s".
-
+---------- 
 Documentos elaborados por Susana Alexandra Coutinho de Oliveira e Marques Fernandes 
 Mestrado em Humanidades Digitais
 Escola de Letras, Artes e Ciências Humanas (ELACH), Universidade do Minho
