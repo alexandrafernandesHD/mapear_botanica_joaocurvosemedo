@@ -49,8 +49,10 @@
 * Pessoas - Tabela com as pessoas mencionadas e o seu número de ocorrências.
 
 -----------------------------
-<p><strong>Códigos</strong></p>
-<p>Nesta pasta é possível consultar os códigos Python utilizados no âmbito da normalização do "s" longo e os códigos utilizados para extrair segmentos e contar etiquetas.</p>
+<p><strong>Transcrição</strong></p>
+<p>Nesta pasta encontram-se as duas versões obtidas da transcrição do <i>Memorial</i>.</p>
+<p>São documentos <i>plain text</i> de extensão .txt .</p>
 
 **Documentos**
-
+* memorial.txt - Transcrição do <i>Memorial</i> com a ortografia tal como na obra original.
+* memorial_s.txt - Transcrição do <i>Memorial</i> onde o "s" longo foi normalizado para "s".
