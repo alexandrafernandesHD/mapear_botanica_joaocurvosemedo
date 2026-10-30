@@ -15,7 +15,7 @@
 <h2>Conteúdo das Pastas</h2>
 
 <p><strong>Anotação</strong></p>
-<p>Nesta pasta é possível consultar o esquema DTD utilizado para anotar o <i>Memorial</i> e a versão anotada do mesmo com recurso à linguagem XML.</p>
+<p>Nesta pasta é possível consultar o esquema DTD utilizado para anotar o <i>Memorial</i> e a versão anotada com recurso à linguagem XML do mesmo .</p>
 
 **Documentos**
 * memorialsimplex.dtd - Esquema DTD que nos permitiu anotar o <i>Memorial de Varios Simplices</i> de acordo com a hierarquia e as declarações estabelecidas. 
