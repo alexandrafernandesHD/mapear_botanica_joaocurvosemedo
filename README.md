@@ -1,9 +1,9 @@
 # Repositório - Mapear a botânica médica dos séculos XVII e XVIII: o caso de João Curvo Semedo 
 
 <h1>Descrição</h2>
-<p>Neste repositório estão disponíveis os códigos de linguagem Python utilizados no decorrer da dissertação, assim como as transcrições que resultaram do trabalho desenvolvido no decorrer desta dissertação, a sua anotação em linguagem XML e o esquema DTD da anotação.</p>
+<p>Neste repositório estão disponíveis os códigos de linguagem Python utilizados no decorrer da dissertação, assim como as transcrições que resultaram do trabalho desenvolvido, a sua anotação em linguagem XML e o esquema DTD da anotação.</p>
 <p>As tabelas Excel que permitem que o utilizador as organize por filtros foram incluídas neste repositório.</p>
-<p>Fornecemos ainda os resultados das extrações, sem qualquer edição.</p>
+<p>Fornecemos ainda os resultados das extrações sem qualquer edição.</p>
 
 <h2>Pastas que compõem o Repositório</h2>
 <p><strong>Anotação</strong></p>
