@@ -1,7 +1,8 @@
-# Repositório 
+# Repositório - Mapear a botânica médica dos séculos XVII e XVIII: o caso de João Curvo Semedo 
 
-<p>Descrição</p>
-<p></p>
+<h1>Descrição</h2>
+<p>Neste repositório estão disponíveis os códigos Python utilizados no decorrer da dissertação, assim como as transcrições que resultaram desta dissertação, a sua anotação em XML e o esquema DTD.</p>
+<p>Fornecemos ainda os documentos sem qualquer edição dos resultados das extrações através das etiquetas XML</p>
 
 <h2>Pastas que compõem o Repositório</h2>
 <p><strong>Anotação</strong></p>
@@ -64,3 +65,8 @@
 **Documentos**
 * memorial.txt - Transcrição do <i>Memorial</i> com a ortografia tal como na obra original.
 * memorial_s.txt - Transcrição do <i>Memorial</i> onde o "s" longo foi normalizado para "s".
+
+Susana Alexandra Coutinho de Oliveira e Marques Fernandes 
+Mestrado em Humanidades Digitais
+A Escola de Letras, Artes e Ciências Humanas (ELACH), Universidade do Minho
+31 de Outubro de 2026
