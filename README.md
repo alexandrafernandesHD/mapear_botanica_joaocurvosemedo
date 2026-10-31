@@ -69,4 +69,4 @@
 <p>Documentos elaborados por Susana Alexandra Coutinho de Oliveira e Marques Fernandes</p> 
 <p>Mestrado em Humanidades Digitais</p>
 <p>Escola de Letras, Artes e Ciências Humanas (ELACH), Universidade do Minho</p>
-<p></p>Outubro de 2026</p>
+<p></p>outubro de 2026</p>
